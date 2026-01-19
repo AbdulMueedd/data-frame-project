@@ -53,14 +53,7 @@ java-dataframe-project/
 
 ---
 
-## How to Compile and Run
 
-### Compile
-From the project root:
-```bash
-javac -d out src/*.java
-Run
-java -cp out Main
 Usage
 Launch the program
 Import a CSV file
