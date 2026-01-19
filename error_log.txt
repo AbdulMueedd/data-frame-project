@@ -1,0 +1,64 @@
+Error reading CSV file: 32 (The system cannot find the file specified)
+Invalid Column name to average or Invalid type of Column for average.
+Invalid Column name to average or Invalid type of Column for average.
+Invalid Column name to average or Invalid type of Column for average.
+Invalid column name or data type for finding minimum.
+Invalid column name or data type for finding minimum.
+Invalid Column name to average or Invalid type of Column for average.
+Invalid Column name to average or Invalid type of Column for average.
+Invalid Column name to average or Invalid type of Column for average.
+Invalid Column name to average or Invalid type of Column for average.
+Invalid Column name to average or Invalid type of Column for average.
+Invalid column name or data type for finding minimum.
+Invalid Column name to average or Invalid type of Column for average.
+Invalid Column name to average or Invalid type of Column for average.
+Invalid Column name to average or Invalid type of Column for average.
+Invalid Column name to average or Invalid type of Column for average.
+Invalid Column name to average or Invalid type of Column for average.
+Invalid Column name to average or Invalid type of Column for average.
+Invalid Column name to average or Invalid type of Column for average.
+Invalid Column name to average or Invalid type of Column for average.
+Column Name does not exist
+Invalid Column name to average or Invalid type of Column for average.
+Invalid Column name to average or Invalid type of Column for average.
+Column Name does not exist
+Invalid column name or data type for finding minimum.
+Invalid data type for finding minimum.
+Column Name does not exist.
+Invalid column name or data type for creating frequency table.
+Invalid data type for creating frequency table.
+Column Name does not exist.
+Invalid condition format.
+Invalid condition format.
+Invalid condition format.
+Invalid condition format.
+Invalid condition format.
+Invalid condition format.
+Invalid condition format.
+Invalid condition format.
+Invalid condition format.
+Invalid condition format.
+Invalid condition format.
+Invalid condition format.
+Invalid condition format.
+Invalid condition format.
+Invalid condition format.
+Invalid condition format.
+No active DataFrame.
+Invalid condition format.
+Invalid condition format.
+Invalid condition format.
+Invalid condition format.
+Invalid condition format.
+No active DataFrame.
+Column Name does not exist.
+Column Name does not exist.
+Invalid condition format.
+No active DataFrame.
+Column Name does not exist
+ Invalid type of Column for average.
+Column Name does not exist
+Invalid data type for creating frequency table.
+Invalid data type for creating frequency table.
+Error reading CSV file:  (The filename, directory name, or volume label syntax is incorrect)
+Invalid data type for creating frequency table.
